@@ -1,0 +1,89 @@
+.header-1 {
+  text-align: center;
+  background-color: #ccfbf1;
+  color: #11766e;
+}
+
+.nav-menu {
+  display: flex;
+  gap: 10px;
+  background-color: #e0f2fe;
+  align-items: center;
+  height: 20px;
+  justify-content: center;
+}
+
+h3 {
+  color: #2273ab;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+h3:hover {
+  cursor: pointer;
+  background-color: #0284c7;
+  color: #fff;
+}
+
+label {
+  color: #1c514a;
+  font-size: larger;
+  text-align: center;
+}
+
+.input {
+  text-align: center;
+}
+
+input {
+  padding: 6px 8px;
+  font-size: 16px;
+  border: 2px solid #cbd5e1;
+}
+
+input:focus {
+  background-color: #b4e1d7;
+}
+
+.footer {
+  text-align: center;
+  background-color: #0f766e;
+  color: #fff;
+}
+
+select {
+  padding: 6px 20px;
+}
+
+select:focus {
+  background-color: #afe7da;
+}
+
+select:hover {
+  background-color: #afe7da;
+}
+
+option {
+  background-color: #afe7da;
+}
+
+option:hover {
+  background-color: #0284c7;
+  color: #fff;
+}
+button {
+  background-color: #0ea5a4;
+  padding: 4px 7px;
+  color: #fff;
+  font-weight: 700;
+  font-size: large;
+}
+
+button:hover {
+  background-color: #266159;
+}
+textarea:focus {
+  background-color: #b4e1d7;
+}
